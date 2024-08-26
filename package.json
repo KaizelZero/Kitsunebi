@@ -37,6 +37,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@consumet/extensions": "^1.7.0",
     "bits-ui": "^0.21.13",
     "clsx": "^2.1.1",
     "mode-watcher": "^0.4.1",
